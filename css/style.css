@@ -702,3 +702,21 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+.projects {
+  font-size: 16px;
+}
+.workxp {
+  text-decoration: underline;
+}
+.workxp_date {
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.scaleAI_discription{
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 2rem ;
+  padding-bottom: 5rem;
+}
